@@ -1,0 +1,7 @@
+c:\users\jaco\documents\visual studio 2013\Projects\Orderwise.Calculator\Orderwise.Calculator.Web\bin\Orderwise.Calculator.Web.dll.config
+c:\users\jaco\documents\visual studio 2013\Projects\Orderwise.Calculator\Orderwise.Calculator.Web\bin\Orderwise.Calculator.Web.dll
+c:\users\jaco\documents\visual studio 2013\Projects\Orderwise.Calculator\Orderwise.Calculator.Web\bin\Orderwise.Calculator.Web.pdb
+c:\users\jaco\documents\visual studio 2013\Projects\Orderwise.Calculator\Orderwise.Calculator.Web\obj\Debug\Orderwise.Calculator.Web.csprojResolveAssemblyReference.cache
+c:\users\jaco\documents\visual studio 2013\Projects\Orderwise.Calculator\Orderwise.Calculator.Web\obj\Debug\Orderwise.Calculator.Web.dll
+c:\users\jaco\documents\visual studio 2013\Projects\Orderwise.Calculator\Orderwise.Calculator.Web\obj\Debug\Orderwise.Calculator.Web.pdb
+C:\Users\Jaco\documents\visual studio 2013\Projects\Orderwise.Calculator\Orderwise.Calculator.Web\bin\Elmah.dll

@@ -1,0 +1,11 @@
+c:\users\jaco\documents\visual studio 2013\Projects\Orderwise.Calculator\Orderwise.Calculator.Service\bin\Debug\Orderwise.Calculator.Service.dll.config
+c:\users\jaco\documents\visual studio 2013\Projects\Orderwise.Calculator\Orderwise.Calculator.Service\bin\Debug\Orderwise.Calculator.Service.dll
+c:\users\jaco\documents\visual studio 2013\Projects\Orderwise.Calculator\Orderwise.Calculator.Service\bin\Debug\Orderwise.Calculator.Service.pdb
+c:\users\jaco\documents\visual studio 2013\Projects\Orderwise.Calculator\Orderwise.Calculator.Service\obj\Debug\Orderwise.Calculator.Service.csprojResolveAssemblyReference.cache
+c:\users\jaco\documents\visual studio 2013\Projects\Orderwise.Calculator\Orderwise.Calculator.Service\obj\Debug\Orderwise.Calculator.Service.dll
+c:\users\jaco\documents\visual studio 2013\Projects\Orderwise.Calculator\Orderwise.Calculator.Service\obj\Debug\Orderwise.Calculator.Service.pdb
+c:\users\jaco\documents\visual studio 2013\Projects\Orderwise.Calculator\Orderwise.Calculator.Service\bin\Debug\Orderwise.Calculator.Common.dll
+c:\users\jaco\documents\visual studio 2013\Projects\Orderwise.Calculator\Orderwise.Calculator.Service\bin\Debug\Orderwise.Calculator.Domain.dll
+c:\users\jaco\documents\visual studio 2013\Projects\Orderwise.Calculator\Orderwise.Calculator.Service\bin\Debug\Orderwise.Calculator.Common.pdb
+c:\users\jaco\documents\visual studio 2013\Projects\Orderwise.Calculator\Orderwise.Calculator.Service\bin\Debug\Orderwise.Calculator.Domain.pdb
+c:\users\jaco\documents\visual studio 2013\Projects\Orderwise.Calculator\Orderwise.Calculator.Service\bin\Debug\NCalc.dll
